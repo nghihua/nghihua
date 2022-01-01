@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Nghi Hua's Overview](https://github.com/nghihua/github-stats/blob/master/generated/overview.svg)
-![Nghi Hua's Languages](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![Nghi Hua's Languages](https://github.com/nghihua/github-stats/blob/master/generated/languages.svg)

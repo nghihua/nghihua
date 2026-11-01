@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-
-![Nghi Hua's Overview](https://github.com/nghihua/github-stats/blob/master/generated/overview.svg)
-![Nghi Hua's Languages](https://github.com/nghihua/github-stats/blob/master/generated/languages.svg)

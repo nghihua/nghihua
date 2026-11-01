@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on a webapp to match volunteer tutors and students who need help.
-- 🌱  I’m currently learning backend development
 - 📫  How to reach me: [Facebook](https://www.facebook.com/huanhat.gianghi/)
 - 😄  Pronouns: she/her/her
 
